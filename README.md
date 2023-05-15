@@ -23,7 +23,9 @@ Senderos Serpentantes is a no-frills app for hikers to learn about, share, and s
 
 ## Technologies Used
 
-- [List the technologies used in your project]
+- HTML
+- CSS
+- Javascript
 
 ## User Stories
 
