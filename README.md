@@ -2,7 +2,7 @@
 
 Senderos Serpentantes is a no-frills app for hikers to learn about, share, and save trails.
 - [Senderos Serpentantes Trello Board](https://trello.com/b/BCFgb0eM/senderos-serpenteantes)
-- [ERD](https://lucid.app/lucidchart/9fd9a54e-3255-4d84-8ff8-6b8d88bce402/edit?viewport_loc=-158%2C141%2C1591%2C863%2C0_0&invitationId=inv_2c3fd439-226b-40e8-9ba6-8214980554d3)
+- [ERD][https://lucid.app/lucidchart/9fd9a54e-3255-4d84-8ff8-6b8d88bce402/edit?viewport_loc=-158%2C141%2C1591%2C863%2C0_0&invitationId=inv_2c3fd439-226b-40e8-9ba6-8214980554d3](https://i.imgur.com/1PohWJV.png))
 
 ## ERD
 ![ERD](https://i.imgur.com/x2BM9s1.png)
